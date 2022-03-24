@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0bfff119e1ce20b439daa491340ece58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animalClip: {fileID: 8300000, guid: 350335c92a23fca42a36ac490cdb1532, type: 3}
+  - animalClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
